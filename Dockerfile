@@ -5,6 +5,7 @@ RUN apk update && \
     bash \
     easy-rsa \
     git \
+    netcat-openbsd \
     openssh-client \
     curl \
     ca-certificates \
